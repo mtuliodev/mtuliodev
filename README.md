@@ -15,3 +15,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D48E31?logo=gmail&style=flat-square&logoColor=white)](mailto:mtulio0906l@gmail.com)
 
 
+![Snake Animation](https://github.com/mtuliodev)
