@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Marco Túlio, estudante em ciência de dados!
 
 
-- Atualmente trabalhando com SQL
-- Aprendendo Python e Power BI
+- 💻 Atualmente trabalhando com SQL
+- 📚 Aprendendo Python e Power BI
 
 [![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=mtuliodev&theme=transparent)](https://github.com/mtuliodev/github-readme-stats)
 
