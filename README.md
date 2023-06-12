@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Marco Túlio, estudante em ciência de dados!
 
-<!--
-**mtuliodev/mtuliodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Atualmente trabalhando com SQL
+- Aprendendo Python e Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=mtuliodev&theme=transparent)](https://github.com/mtuliodev/github-readme-stats)
+
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/marco-tulio-sousa-a40a2a203/)
+[![Gmail](https://img.shields.io/badge/Gmail-D48E31?logo=gmail&style=flat-square&logoColor=white)](mailto:mtulio0906l@gmail.com)
+
+
